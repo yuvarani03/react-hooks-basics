@@ -20,7 +20,7 @@ Whenever you create a first significant change, you should make your first commi
 In the end of this document, you will find guidelines on how to submit the exercise.
 
 ## Instructions
-In this lab we will try to work with hooks in react. You can use a single component or create one component for each progression. This is lab is just for your reference and kinldy explore the power of react hooks.
+In this lab we will try to work with hooks in react. You can use a single component or create one component for each progression. This lab is just for your reference and kinldy explore the power of react hooks.
 
 ### PROGRESSION 1 | UPDATE STATE USING `useState`
 ![Image description](https://i1.faceprep.in/ProGrad/bh1.gif)
