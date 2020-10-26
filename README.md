@@ -20,7 +20,7 @@ Whenever you create a first significant change, you should make your first commi
 In the end of this document, you will find guidelines on how to submit the exercise.
 
 ## Instructions
-In this lab we will try to work with hooks in react. You can use a single component or create one component for each progression.
+In this lab we will try to work with hooks in react. You can use a single component or create one component for each progression. This is lab is just for your reference and kinldy explore the power of react hooks.
 
 ### PROGRESSION 1 | UPDATE STATE USING `useState`
 ![Image description](https://i1.faceprep.in/ProGrad/bh1.gif)
@@ -37,8 +37,9 @@ In this lab we will try to work with hooks in react. You can use a single compon
 ### PROGRESSION 5 | `useEffect`
 ![Image description](https://i1.faceprep.in/ProGrad/bh5.gif)
 
-### PROGRESSION 6 | `useEffect`
+### PROGRESSION 6 | `useContext`
 ![Image description](https://i1.faceprep.in/ProGrad/bh6.gif)
+
 ## Submission
 
 If you didn't add, commit and push the changes you made, this is the last call. :smile:
